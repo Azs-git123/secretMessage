@@ -58,7 +58,7 @@ echo "────────────────────────�
 echo " 🎉 Selamat! Kamu berhasil"
 echo "    menyelesaikan challenge ini!"
 echo
-echo " 🔎 You just solved an OSINT challenge!"
+echo " 🔎 You just solved the challenge!"
 echo
 echo " 🎓 Welcome to campus!"
 echo "    Enjoy your journey!"
