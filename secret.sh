@@ -48,17 +48,18 @@ cat << 'EOF'
 
    🎉 MESSAGE FOUND 🎉
 
-   WELCOME TO AMIKOM!
+     WELCOME TO AMIKOM!
 
 EOF
 
 sleep 1
 
 echo "────────────────────────────────────"
-echo " Selamat! Kamu berhasil menyelesi challangenya"
+echo " 🎉 Selamat! Kamu berhasil"
+echo "    menyelesaikan challenge ini!"
 echo
 echo " 🔎 You just solved an OSINT challenge!"
 echo
-echo " 🎓 Welcome to campus, Enjoy!"
+echo " 🎓 Welcome to campus!"
+echo "    Enjoy your journey!"
 echo "────────────────────────────────────"
-
